@@ -1,4 +1,4 @@
-package com.github.70853n.ideapluginbase
+package com.code708.ideapluginbase
 
 import com.intellij.ide.highlighter.XmlFileType
 import com.intellij.psi.xml.XmlFile

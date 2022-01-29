@@ -1,4 +1,4 @@
-package com.github.70853n.ideapluginbase
+package com.code708.ideapluginbase
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

@@ -1,6 +1,6 @@
-package com.github.70853n.ideapluginbase.services
+package com.code708.ideapluginbase.services
 
-import com.github.70853n.ideapluginbase.MyBundle
+import com.code708.ideapluginbase.MyBundle
 
 class MyApplicationService {
 
